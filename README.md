@@ -62,12 +62,12 @@ Em breve, disponibilizo o repositório completo no GitHub para rodar localmente 
 
 ### 🤝 Quer Conversar?
 
-Me chama se você:
-🔹 É líder de equipe cansado de compliance chata  
-🔹 É recrutador buscando talentos em **IA + segurança centrada no ser humano**  
-🔹 Ou simplesmente ama tecnologia que **respeita as pessoas**
+Me chama se você:  
+🔹 É líder de equipe cansado de compliance chata   
+🔹 É recrutador buscando talentos em **IA + segurança centrada no ser humano**   
+🔹 Ou simplesmente ama tecnologia que **respeita as pessoas**  
 
 📧 Contato:  
 💼 LinkedIn: https://www.linkedin.com/in/thiago-cequeira-99202239/  
-🧑‍💻 GitHub: https://github.com/ThiagoMaria-SecurityIT/
+🧑‍💻 GitHub: https://github.com/ThiagoMaria-SecurityIT/  
 🤗 Hugging Face: https://huggingface.co/ThiSecur
