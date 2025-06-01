@@ -54,7 +54,6 @@ Atualmente, o agente:
 
 Você pode testar uma versão visual do agente no Hugging Face:
 
-👉 [Security-AI-Agent-Vision no Hugging Face](https://huggingface.co/spaces/ThiSecur/Security-AI-Agent-Vision)  
 👉 [Security AI Agent Vision](https://huggingface.co/spaces/ThiSecur/security-ai-agent)  
 * Em breve, disponibilizo o repositório completo no GitHub para rodar localmente e integrar com sistemas corporativos.  
 * Essas duas versões ainda não estão com versão "gentle" e estão sem Supervised fine-tuning (SFT)   
